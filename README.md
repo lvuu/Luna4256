@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andrewdevlab
+- 👀 I’m interested in so many things like computers, science, developpement
+- 🌱 I’m currently learning more C#, we never have enough.
+- 💞️ I’m looking to collaborate on uh idk yet
+- 📫 How to reach me : you can reach me on Discord at andrew.#0002
