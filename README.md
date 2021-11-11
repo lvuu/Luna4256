@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @andrewdevlab
-- 👀 I’m interested in so many things like computers, science, developpement
+- 👀 I’m interested in so many things like computers, science, development
 - 🌱 I’m currently learning more C#, we never have enough.
