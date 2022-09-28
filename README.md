@@ -1,7 +1,7 @@
 <h1>hey, je suis Luna !</h1>
-<h3>un développeur back-end (et un peu front-end) belge !</h3>
+<h3>un peu plus sur moi</h3>
 
-- 👤 j'ai 14 ans
+- 👤 je suis un développeur backend et j'ai 14 ans
 
 - 🔭 en ce moment je travaille activement sur [Entka](https://github.com/edukateam/entka-api)
 
