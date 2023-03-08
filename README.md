@@ -1,4 +1,4 @@
-<h1>hey, je suis Luna !</h1>
+<h1>hey, je suis Lou !</h1>
 <h3>un peu plus sur moi</h3>
 
 - 👤 je suis un développeur backend et j'ai 14 ans
